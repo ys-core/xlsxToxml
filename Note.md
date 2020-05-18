@@ -24,3 +24,6 @@
 
 6. 要覆盖远端的版本信息，使远端的仓库版本也回退到相应的版本可以加上参数 --force
    git push origin master --force**
+   
+---
+7. 
