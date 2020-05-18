@@ -1,6 +1,6 @@
 # Git常用命令
 
-
+////This part content comes from Master branch
 
 1. get reset --soft HEAD^ 可撤销最近那一次到本地仓库的commit，不删除工作空间改动代码，撤销commit，不撤销git add . 与get reset --soft HEAD~1命令等效 
 
